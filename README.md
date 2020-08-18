@@ -37,7 +37,7 @@
 
 3. Com um client de requisições REST como o Insomnia ou o Postman, acessar as rotas disponibilizadas na API.
 
- - Cadastrar um novo repositório.
+ - Cadastrar um novo repositório. <br />
    **POST** http://localhost:3333/repositories
 
 Request Body (Exemplo):
@@ -53,10 +53,10 @@ Request Body (Exemplo):
    }
 ```
 
- - Listar todos os repositórios.
+ - Listar todos os repositórios. <br />
    **GET** http://localhost:3333/repositories
 
- - Alterar os atributos de um repositório específico.
+ - Alterar os atributos de um repositório específico. <br />
    **PUT** http://localhost:3333/repositories/:id
 
 Request Body (Exemplo):
@@ -71,10 +71,10 @@ Request Body (Exemplo):
    }
 ```
 
- - Excluir um repositório específico.
+ - Excluir um repositório específico. <br />
    **DELETE** http://localhost:3333/repositories/:id
 
- - Atribuir likes para um repositório específico.
+ - Atribuir likes para um repositório específico. <br />
    **POST** http://localhost:3333/repositories/:id/like
 
 
