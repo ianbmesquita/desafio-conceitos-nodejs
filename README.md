@@ -1,8 +1,15 @@
+<img alt="GoStack" src=".github/banner-gostack.png" />
+
 <h1 align="center">
     Desafio Conceitos do Node.js
 </h1>
 
 ## :rocket: Tecnologias
+
+<p float="left">
+  <img alt="JavaScript" src=".github/javascript.svg"/>
+  <img alt="NodeJS" src=".github/node.svg" hspace="10"/>
+</p>
 
 -  [JavaScript](https://www.w3schools.com/js/)
 -  [Node.js](https://nodejs.org/en/)
